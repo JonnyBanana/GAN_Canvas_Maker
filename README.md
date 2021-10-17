@@ -19,4 +19,15 @@ https://web.spell.ml/
 
 The code I started from had a couple of indentation errors, and some unrecognized characters, which I fixed.
 
-If you need to follow the guide and do it fast, you can fork the repo directly
+If you need to follow the guide and do it fast, you can fork the repo directly.
+
+
+</BR>
+
+requirements:
+
+-tensorflow
+-PIl
+-os
+-numpy
+-spell
