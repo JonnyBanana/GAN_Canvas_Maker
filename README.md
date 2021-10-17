@@ -1,5 +1,5 @@
 # GAN_Canvas_Maker
-Generating Art using Generative Adversarial Network (GAN)
+<b>Generating Art using Generative Adversarial Network (GAN)</b>
 
 </BR>
 
@@ -24,7 +24,7 @@ If you need to follow the guide and do it fast, you can fork the repo directly.
 
 </BR>
 
-requirements:
+<b>requirements:</b>
 
 -tensorflow</BR>
 -PIL</BR>
