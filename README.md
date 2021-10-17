@@ -24,7 +24,7 @@ If you need to follow the guide and do it fast, you can fork the repo directly.
 
 </BR>
 
-<b>requirements:</b>
+<b>Requirements:</b>
 
 -tensorflow</BR>
 -PIL</BR>
