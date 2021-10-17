@@ -27,7 +27,7 @@ If you need to follow the guide and do it fast, you can fork the repo directly.
 requirements:
 
 -tensorflow</BR>
--PIl</BR>
+-PIL</BR>
 -os</BR>
 -numpy</BR>
 -spell</BR>
