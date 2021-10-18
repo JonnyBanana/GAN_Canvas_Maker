@@ -42,7 +42,7 @@ The code I started from had a couple of indentation errors, and some unrecognize
 
 </BR>
 
-The repo also contains a small dataset (taken from wikiart) which contains 1000 popart images.
+The repo also contains a small dataset (taken from wikiart) which contains 1000 images.
 
 The complete dataset (25.4 Gb) can be downloaded from here:
 
