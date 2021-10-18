@@ -18,7 +18,7 @@ https://web.spell.ml/
 </BR>
 
 
-But it can also be launched locally, but obviously you need a good video card.
+But it can also be launched locally, but obviously you need a good graphic card.
 
 To launch the GAN locally you can use this command:
 
