@@ -19,8 +19,6 @@ https://web.spell.ml/
 
 The code I started from had a couple of indentation errors, and some unrecognized characters, which I fixed.
 
-If you need to follow the guide and do it fast, you can fork the repo directly.
-
 
 </BR>
 
@@ -39,3 +37,6 @@ The repo also contains a small dataset (taken from wikiart) which contains 1000 
 The complete dataset (25.4 Gb) can be downloaded from here:
 
 https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset
+
+
+</BR>
