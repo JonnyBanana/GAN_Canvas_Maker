@@ -17,6 +17,16 @@ https://web.spell.ml/
 
 </BR>
 
+
+But it can also be launched locally, but obviously you need a good video card.
+
+To launch the GAN locally you can use this command:
+
+<b>python art_gan.py -m cubism_data.npy</b>
+
+
+</BR>
+
 The code I started from had a couple of indentation errors, and some unrecognized characters, which I fixed.
 
 
