@@ -63,5 +63,7 @@ you can look at the screenshots i inserted with my working setup.</BR>
 
 
 
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/GAN_Canvas_Maker/main/Run_Details.jpg)
 
+</BR>
 
