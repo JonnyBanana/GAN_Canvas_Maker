@@ -53,10 +53,15 @@ https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset
 
 </BR>
 
-Personally I had several problems starting the script from the command prompt, 
-so I opted to start the script directly from the Spell ide, 
-in any case I also encountered several problems given by the compatibility of the libraries versions, 
-if you need see the working setup to run the script from Spell 
-you can look at the screenshots i inserted with my working setup.
+Personally I had several problems starting the script from the command prompt, </BR>
+so I opted to start the script directly from the Spell ide, </BR>
+in any case I also encountered several problems given by the compatibility of the libraries versions, </BR>
+if you need see the working setup to run the script from Spell </BR>
+you can look at the screenshots i inserted with my working setup.</BR>
+
+</BR>
+
+
+
 
 
